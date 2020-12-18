@@ -19,4 +19,4 @@ else{
   console.log('Please go to registration desk, thanks!');
 }
 
-// depending on the values of the variables early and age, the console will display your race time, your race number or further instructions.
+// depending on the values of the variables early and age, the result will be: he start time of your turn in the race and your race number or Please go to registration desk, thanks!
